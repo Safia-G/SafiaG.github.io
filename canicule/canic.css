@@ -1,0 +1,9 @@
+.jumbotron {
+  text-align: center;
+}
+.masthead {
+  margin-left: 50px;
+}
+.container {
+  background-image: linear-gradient(blue, white);
+}
